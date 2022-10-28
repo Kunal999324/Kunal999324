@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunal Pal
+- 👋 Hi, I’m Kunal Pal
 - 👀 I’m interested in JAVA and DSA
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
